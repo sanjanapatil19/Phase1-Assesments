@@ -1,0 +1,6 @@
+[submodule "non-assisted-prj"]
+	path = non-assisted-prj
+	url = https://github.com/sanjanapatil19/non-assisted-prj.git
+[submodule "phase1-assesment"]
+	path = phase1-assesment
+	url = https://github.com/sanjanapatil19/phase1-assesment.git
