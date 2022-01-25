@@ -4,3 +4,6 @@
 [submodule "phase1-assesment"]
 	path = phase1-assesment
 	url = https://github.com/sanjanapatil19/phase1-assesment.git
+[submodule "Phase1-Assisted-prj"]
+	path = Phase1-Assisted-prj
+	url = https://github.com/sanjanapatil19/Phase1-Assisted-prj.git
